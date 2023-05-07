@@ -1,5 +1,5 @@
 <h1 align="center">Marco's Github</h1>
-<h3 align="center">Exploring the coding world with a physicist's touch</h3>
+<h3 align="center">Exploring the universe of coding</h3>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markort147&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
