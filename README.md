@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markort147&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=markort147&show_icons=true&theme=vue-dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=markort147&show_icons=true&theme=vue"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=markort147&show_icons=true"/>
+  </picture>  
+</a>
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=markort147&repo=charging-battery-notify-vbs)](https://github.com/markort147/charging-battery-notify-vbs)-->
+
 <!--
 **markort147/markort147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
