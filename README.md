@@ -1,6 +1,9 @@
-### Hi there 👋
+<h1 align="center">Marco's Github</h1>
+<h3 align="center">Exploring the coding world with a physicist's touch</h3>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markort147&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+
+[![Background](https://media.licdn.com/dms/image/C5616AQFyv6aMr2mJ1A/profile-displaybackgroundimage-shrink_350_1400/0/1537436187534?e=1689206400&v=beta&t=Vvm7DGAnRfKUVp7yoKSkSAdds7S9yim9RHP3NdyrJu8)]]
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
