@@ -21,7 +21,7 @@
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />-->
       <img src="https://github-readme-stats.vercel.app/api?username=markort147&show_icons=true"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markort147&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markort147"/>
     </picture>  
   </a>
 </p>
