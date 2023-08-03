@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.flickr.com/photos/nasawebbtelescope/albums">
-    <img src="https://media.licdn.com/dms/image/C5616AQFyv6aMr2mJ1A/profile-displaybackgroundimage-shrink_350_1400/0/1537436187534?e=1689206400&v=beta&t=Vvm7DGAnRfKUVp7yoKSkSAdds7S9yim9RHP3NdyrJu8"/>
+    <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/main_image_star-forming_region_carina_nircam_final-5mb.jpg"/>
   </a>
 </p>
 
