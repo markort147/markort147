@@ -3,11 +3,11 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markort147&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<p align="center">
+<!--<p align="center">
   <a href="https://www.flickr.com/photos/nasawebbtelescope/albums">
     <img src="https://www.nasa.gov/sites/default/files/thumbnails/image/main_image_star-forming_region_carina_nircam_final-5mb.jpg"/>
   </a>
-</p>
+</p>-->
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
