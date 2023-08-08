@@ -3,12 +3,20 @@
 
 ---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/mr93/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/markort147)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/markort147)
-<a href="https://datapizza.tech/folio/marcoromano347">
-  <img src="https://img.shields.io/badge/DATA%20PIZZA-red?style=flat-square" width="110"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mr93/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" height="30"/>
+  </a>
+  <a href="https://www.kaggle.com/markort147">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="30"/>
+  </a>
+  <a href="https://www.hackerrank.com/markort147">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30"/>
+  </a>
+  <a href="https://datapizza.tech/folio/marcoromano347">
+    <img src="https://img.shields.io/badge/DATA%20PIZZA-red?style=flat-square" height="30"/>
+  </a>
+</p>
 
 ---
 
