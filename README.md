@@ -27,7 +27,6 @@
   <ul>
     <li><b><a href="https://github.com/markort147/MoneyMind">MoneyMind</a></b></li>
     A small demonstrative web application for managing personal expenses, displaying them in a tabular format, and visualizing data with graphs.
-    Link: 
     <ul>
       <li>Dash (with Pyplot) for the graphical user interface</li>
       <li>SQLite as an embedded database</li>      
