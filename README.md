@@ -20,6 +20,37 @@
 
 ---
 
+<h3 align="center">Some demos</h3>
+
+<h4 align="left">Python Development</h4>
+<p>
+  <ul>
+    <li><b><a href="https://github.com/markort147/MoneyMind">MoneyMind</a></b></li>
+    A small demonstrative web application for managing personal expenses, displaying them in a tabular format, and visualizing data with graphs.
+    Link: 
+    <ul>
+      <li>Dash (with Pyplot) for the graphical user interface</li>
+      <li>SQLite as an embedded database</li>      
+      <li>Pandas for data handling and manipulation</li>
+    </ul>
+  </ul>
+</p>
+
+<h4 align="left">Data Science & Machine Learning</h4>
+<p>
+  <ul>
+    <li><b><a href="https://github.com/markort147/Notebook_CreditRisk">Neural Academy final project</a></b></li>
+    A Jupyter notebook created as the final project for the Data Science and Machine Learning course at Neural Academy. Applied data analysis, data visualization, and supervised learning techniques to assess credit financial risk using a specific dataset.
+    <ul>
+      <li>Libraries: NumPy, Pandas, Matplotlib, Sci-Kit Learn</li>
+      <li>Machine Learning Models: K-Nearest Neighbors (KNN), Random Forest, XGBoost</li>      
+      <li>Evaluation of various scoring metrics for model performance assessment</li>
+    </ul>
+  </ul>
+</p>
+
+---
+
 <a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540markort147">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markort147&count_private=true&langs_count=9&hide=jupyter%20notebook,tex&layout=compact" />
 </a>
