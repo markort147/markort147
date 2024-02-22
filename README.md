@@ -22,6 +22,21 @@
 
 <h3 align="center">Some demos</h3>
 
+<h4 align="left">Java Development</h4>
+<p>
+  <ul>
+    <li><b><a href="https://github.com/markort147/theBoxProblem">TheBoxProblem</a></b></li>
+    A Spring Boot-based REST API project demonstrating custom validation handling for a dynamic item packing algorithm, showcasing integration with Bean Validation API and Docker for easy deployment.
+    <ul>
+      <li><b>Spring Boot</b> for the core application framework, facilitating REST API development.</li>
+      <li><b>Jakarta Bean Validation</b> for implementing custom validation logic.</li>
+      <li><b>Docker</b> for containerizing the application, ensuring consistent deployment environments.</li>
+      <li><b>Maven</b> for project management and build automation.</li>
+      <li><b>JUnit</b> for unit testing to ensure code reliability.</li>
+    </ul>
+  </ul>
+</p>
+
 <h4 align="left">Python Development</h4>
 <p>
   <ul>
