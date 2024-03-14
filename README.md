@@ -13,9 +13,12 @@
   <a href="https://www.hackerrank.com/markort147">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30"/>
   </a>
+  <a href="https://hyperskill.org/profile/612962295">
+    <img src="https://img.shields.io/badge/-Hyperskill-8C5AFF?style=flat&logo=hyperskill&logoColor=white" height="30"/>
+  </a>
   <a href="https://datapizza.tech/folio/marcoromano347">
     <img src="https://img.shields.io/badge/DATA%20PIZZA-red?style=flat-square" height="30"/>
-  </a>
+  </a>  
 </p>
 
 ---
