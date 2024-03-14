@@ -71,9 +71,17 @@
 
 ---
 
-<a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540markort147">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markort147&count_private=true&langs_count=9&hide=jupyter%20notebook,tex&layout=compact" />
-</a>
-<a href="https://coderstats.github.io/github/#markort147">
-  <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=markort147&show_icons=true&count_private=true" />
-</a>
+<p align="center">
+  <a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540markort147">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markort147&count_private=true&langs_count=9&hide=jupyter%20notebook,tex&layout=compact" />
+  </a>
+  <a href="https://coderstats.github.io/github/#markort147">
+    <img width="450" src="https://github-readme-stats.vercel.app/api?username=markort147&show_icons=true&count_private=true" />
+  </a>
+</p>
+
+---
+
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=markort147.markort147" alt="visitor badge"/>
+</p>
