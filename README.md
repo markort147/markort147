@@ -46,7 +46,7 @@
 <h4 align="left">Data Science & Machine Learning</h4>
 <p>
   <ul>
-    <li><b><a href="https://github.com/markort147/Notebook_CreditRisk">Neural Academy final project</a></b></li>
+    <li><b><a href="https://github.com/markort147/Notebook_CreditRisk">Skills-assesment project for Neural Acadamy course</a></b></li>
     A Jupyter notebook created as the final project for the Data Science and Machine Learning course at Neural Academy. Applied data analysis, data visualization, and supervised learning techniques to assess credit financial risk using a specific <a href="https://www.kaggle.com/datasets/laotse/credit-risk-dataset">dataset</a>.
     <ul>
       <li>Libraries: NumPy, Pandas, Matplotlib, Sci-Kit Learn</li>
