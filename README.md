@@ -43,19 +43,6 @@
   </ul>
 </p>
 
-<h4 align="left">Python Development</h4>
-<p>
-  <ul>
-    <li><b><a href="https://github.com/markort147/MoneyMind">MoneyMind</a></b></li>
-    A small demonstrative web application for managing personal expenses, displaying them in a tabular format, and visualizing data with graphs.
-    <ul>
-      <li>Dash (with Pyplot) for the graphical user interface</li>
-      <li>SQLite as an embedded database</li>      
-      <li>Pandas for data handling and manipulation</li>
-    </ul>
-  </ul>
-</p>
-
 <h4 align="left">Data Science & Machine Learning</h4>
 <p>
   <ul>
