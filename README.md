@@ -1,5 +1,5 @@
-<h1 align="center">Marco's Github</h1>
-<h3 align="center">Exploring the universe of coding</h3>
+<h1 align="center">Marco Romano</h1>
+<h3 align="center">Experienced Java developer | Lifelong learner</h3>
 
 ---
 
@@ -7,21 +7,15 @@
   <a href="https://www.linkedin.com/in/mr93/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" height="30"/>
   </a>
-  <a href="https://www.kaggle.com/markort147">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="30"/>
-  </a>
   <a href="https://www.hackerrank.com/markort147">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30"/>
+  </a>
+  <a href="https://leetcode.com/u/markort147">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="30"/>
   </a>
   <a href="https://hyperskill.org/profile/612962295">
     <img src="https://img.shields.io/badge/-Hyperskill-8C5AFF?style=flat&logo=hyperskill&logoColor=white" height="30"/>
   </a>
-  <a href="https://pastebin.com/u/Markort">
-    <img src="https://img.shields.io/badge/-Pastebin-02456C?style=flat&logo=pastebin&logoColor=white"" height="30"/>
-  </a>
-  <a href="https://datapizza.tech/folio/marcoromano347">
-    <img src="https://img.shields.io/badge/DATA%20PIZZA-red?style=flat-square" height="30"/>
-  </a>  
 </p>
 
 ---
