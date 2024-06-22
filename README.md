@@ -26,22 +26,22 @@
 <p>
   <ul>    
     <li><b><a href="https://github.com/markort147/theBoxProblem">The Box Problem API</a></b></li>
-      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Askills-assessment&type=repositories&topic=spring-boot">skills-assessment</a>
-      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Aspring-boot&type=repositories&topic=spring-boot">spring-boot</a>
-      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Amicroservice&type=repositories&topic=spring-boot">microservice</a>
-      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Arest-api&type=repositories&topic=spring-boot">rest-api</a>
-      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Amaven&type=repositories&topic=spring-boot">maven</a>
-      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Adocker&type=repositories&topic=spring-boot">docker</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Askills-assessment&type=repositories">skills-assessment</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Aspring-boot&type=repositories">spring-boot</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Amicroservice&type=repositories">microservice</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Arest-api&type=repositories">rest-api</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Amaven&type=repositories">maven</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Adocker&type=repositories">docker</a>
       <br>
       A Spring Boot-based REST API project demonstrating custom validation handling for a dynamic item packing algorithm, showcasing integration with Bean Validation API and Docker for easy deployment.     
     <li><b><a href="https://github.com/markort147/simple-code-sharing-platform">Simple Code Sharing Platform</a></b></li>
-      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Askills-assessment&type=repositories&topic=spring-boot">skills-assessment</a>
-      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Aspring-boot&type=repositories&topic=spring-boot">spring-boot</a>
-      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Arest-api&type=repositories&topic=spring-boot">rest-api</a>
-      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Aweb-application&type=repositories&topic=spring-boot">web-application</a>
-      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=repositories&topic=spring-boot">freemarker</a>
-      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=mvc-architecture&topic=spring-boot">mvc-architecture</a>
-      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=gradle&topic=spring-boot">gradle</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Askills-assessment&type=repositories">skills-assessment</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Aspring-boot&type=repositories">spring-boot</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Arest-api&type=repositories">rest-api</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Aweb-application&type=repositories">web-application</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=repositories">freemarker</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=mvc-architecture">mvc-architecture</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=gradle">gradle</a>
       <br>
       A web application and REST API built with Java and Spring Boot for sharing and exploring code snippets. It offers a web interface and programmatic access through the API.      
   </ul>
