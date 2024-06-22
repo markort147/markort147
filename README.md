@@ -36,6 +36,18 @@
     </ul>
   </ul>
 </p>
+<p>
+  <ul>
+    <li><b><a href="https://github.com/markort147/simple-code-sharing-platform">Simple Code Sharing Platform</a></b></li>
+    A web application and REST API built with Java and Spring Boot for sharing and exploring code snippets. It offers a web interface and programmatic access through the API.
+    <ul>
+      <li><b>Spring Boot:</b> Provides a framework for building robust and efficient web applications with minimal configuration.</li>
+      <li><b>Freemarker:</b> A templating engine used to generate dynamic web pages for the user interface.</li>
+      <li><b>H2:</b> A lightweight in-memory database for storing code snippets and user information (suitable for development and testing).</li>
+      <li><b>Gradle:</b> A Java build automation tool used to manage dependencies, compile code, and package the application.</li>
+    </ul>
+  </ul>
+</p>
 
 <h4 align="left">Data Science & Machine Learning</h4>
 <p>
