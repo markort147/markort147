@@ -24,28 +24,26 @@
 
 <h4 align="left">Java Development</h4>
 <p>
-  <ul>
+  <ul>    
     <li><b><a href="https://github.com/markort147/theBoxProblem">The Box Problem API</a></b></li>
-    A Spring Boot-based REST API project demonstrating custom validation handling for a dynamic item packing algorithm, showcasing integration with Bean Validation API and Docker for easy deployment.
-    <ul>
-      <li><b>Spring Boot</b> for the core application framework, facilitating REST API development.</li>
-      <li><b>Jakarta Bean Validation</b> for implementing custom validation logic.</li>
-      <li><b>Docker</b> for containerizing the application, ensuring consistent deployment environments.</li>
-      <li><b>Maven</b> for project management and build automation.</li>
-      <li><b>JUnit</b> for unit testing to ensure code reliability.</li>
-    </ul>
-  </ul>
-</p>
-<p>
-  <ul>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Askills-assessment&type=repositories&topic=spring-boot">skills-assessment</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Aspring-boot&type=repositories&topic=spring-boot">spring-boot</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Amicroservice&type=repositories&topic=spring-boot">microservice</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Arest-api&type=repositories&topic=spring-boot">rest-api</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Amaven&type=repositories&topic=spring-boot">maven</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Adocker&type=repositories&topic=spring-boot">docker</a>
+      <br>
+      A Spring Boot-based REST API project demonstrating custom validation handling for a dynamic item packing algorithm, showcasing integration with Bean Validation API and Docker for easy deployment.     
     <li><b><a href="https://github.com/markort147/simple-code-sharing-platform">Simple Code Sharing Platform</a></b></li>
-    A web application and REST API built with Java and Spring Boot for sharing and exploring code snippets. It offers a web interface and programmatic access through the API.
-    <ul>
-      <li><b>Spring Boot:</b> Provides a framework for building robust and efficient web applications with minimal configuration.</li>
-      <li><b>Freemarker:</b> A templating engine used to generate dynamic web pages for the user interface.</li>
-      <li><b>H2:</b> A lightweight in-memory database for storing code snippets and user information (suitable for development and testing).</li>
-      <li><b>Gradle:</b> A Java build automation tool used to manage dependencies, compile code, and package the application.</li>
-    </ul>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Askills-assessment&type=repositories&topic=spring-boot">skills-assessment</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Aspring-boot&type=repositories&topic=spring-boot">spring-boot</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Arest-api&type=repositories&topic=spring-boot">rest-api</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Aweb-application&type=repositories&topic=spring-boot">web-application</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=repositories&topic=spring-boot">freemarker</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=mvc-architecture&topic=spring-boot">mvc-architecture</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=gradle&topic=spring-boot">gradle</a>
+      <br>
+      A web application and REST API built with Java and Spring Boot for sharing and exploring code snippets. It offers a web interface and programmatic access through the API.      
   </ul>
 </p>
 
