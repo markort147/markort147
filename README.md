@@ -26,6 +26,7 @@
 <p>
   <ul>    
     <li><b><a href="https://github.com/markort147/theBoxProblem">The Box Problem API</a></b></li>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Ajava&type=repositories">java</a>
       <a href="https://github.com/search?q=user%3Amarkort147+topic%3Askills-assessment&type=repositories">skills-assessment</a>
       <a href="https://github.com/search?q=user%3Amarkort147+topic%3Aspring-boot&type=repositories">spring-boot</a>
       <a href="https://github.com/search?q=user%3Amarkort147+topic%3Amicroservice&type=repositories">microservice</a>
@@ -35,6 +36,8 @@
       <br>
       A Spring Boot-based REST API project demonstrating custom validation handling for a dynamic item packing algorithm, showcasing integration with Bean Validation API and Docker for easy deployment.     
     <li><b><a href="https://github.com/markort147/simple-code-sharing-platform">Simple Code Sharing Platform</a></b></li>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Ajava&type=repositories">java</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Ahtml&type=repositories">html</a>
       <a href="https://github.com/search?q=user%3Amarkort147+topic%3Askills-assessment&type=repositories">skills-assessment</a>
       <a href="https://github.com/search?q=user%3Amarkort147+topic%3Aspring-boot&type=repositories">spring-boot</a>
       <a href="https://github.com/search?q=user%3Amarkort147+topic%3Arest-api&type=repositories">rest-api</a>
