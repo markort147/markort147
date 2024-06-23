@@ -42,6 +42,7 @@
       <a href="https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=repositories">freemarker</a>
       <a href="https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=mvc-architecture">mvc-architecture</a>
       <a href="https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=gradle">gradle</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Aopenapi-specification&type=gradle">openapi-specification</a>
       <br>
       A web application and REST API built with Java and Spring Boot for sharing and exploring code snippets. It offers a web interface and programmatic access through the API.      
   </ul>
