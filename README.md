@@ -47,7 +47,15 @@
       <a href="https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=gradle">gradle</a>
       <a href="https://github.com/search?q=user%3Amarkort147+topic%3Aopenapi-specification&type=gradle">openapi-specification</a>
       <br>
-      A web application and REST API built with Java and Spring Boot for sharing and exploring code snippets. It offers a web interface and programmatic access through the API.      
+      A web application and REST API built with Java and Spring Boot for sharing and exploring code snippets. It offers a web interface and programmatic access through the API.   
+    <li><b><a href="https://github.com/markort147/recipe-management-web-api">Recipe Management Web Api</a></b></li>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Ajava&type=repositories">java</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Askills-assessment&type=repositories">skills-assessment</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Aspring-boot&type=repositories">spring-boot</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Aspring-security&type=repositories">spring-security</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Arest-api&type=repositories">rest-api</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=gradle">gradle</a>
+      <br>  
   </ul>
 </p>
 
