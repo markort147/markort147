@@ -70,6 +70,14 @@
       <a href="https://github.com/search?q=user%3Amarkort147+topic%3Arest&type=repositories">rest</a>
       <a href="https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=gradle">gradle</a>
       <br>  
+    <li><b><a href="https://github.com/markort147/simple-calendar-web-api">Simple Calendar Web Api</a></b></li>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Ajava&type=repositories">java</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Askills-assessment&type=repositories">skills-assessment</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Aspring-boot&type=repositories">spring-boot</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Awebsocket&type=repositories">websocket</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Arest-api&type=repositories">rest-api</a>
+      <a href="https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=gradle">gradle</a>
+      <br>  
   </ul>
 </p>
 
