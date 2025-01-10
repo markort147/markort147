@@ -98,10 +98,10 @@
 
 <p align="center">
   <a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540markort147">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markort147&count_private=true&langs_count=9&hide=jupyter%20notebook,tex&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markort147&count_private=false&langs_count=9&hide=jupyter%20notebook,tex,css&layout=compact" />
   </a>
   <a href="https://coderstats.github.io/github/#markort147">
-    <img width="450" src="https://github-readme-stats.vercel.app/api?username=markort147&show_icons=true&count_private=true" />
+    <img width="450" src="https://github-readme-stats.vercel.app/api?username=markort147&show_icons=true&show=prs_merged&theme=transparent&include_all_commits=true" />
   </a>
 </p>
 
