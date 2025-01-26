@@ -79,15 +79,6 @@ A web application and REST API built with Java and Spring Boot for sharing and e
 This was purely a practice project—just me, some caffeine, and a desire to level up my skills! ☕ 
 It features a sleek web interface and programmatic access through the API for those who like to tinker under the hood. 🔧
 
-
-#### [Recipe Management Web Api](https://github.com/markort147/recipe-management-web-api)
-[![Java](https://img.shields.io/badge/Java-17-blue?logo=java)](https://github.com/search?q=user%3Amarkort147+topic%3Ajava&type=repositories)
-[![Skills Assessment](https://img.shields.io/badge/Skills%20Assessment-orange?logo=testing-library)](https://github.com/search?q=user%3Amarkort147+topic%3Askills-assessment&type=repositories)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5-brightgreen?logo=springboot)](https://github.com/search?q=user%3Amarkort147+topic%3Aspring-boot&type=repositories)
-[![Spring Security](https://img.shields.io/badge/Spring%20Security-darkgreen?logo=springsecurity)](https://github.com/search?q=user%3Amarkort147+topic%3Aspring-security&type=repositories)
-[![REST API](https://img.shields.io/badge/REST%20API-blue?logo=swagger)](https://github.com/search?q=user%3Amarkort147+topic%3Arest-api&type=repositories)
-[![Gradle](https://img.shields.io/badge/Gradle-1f425f?logo=gradle)](https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=gradle)
-
 #### [Real-time Web Chat](https://github.com/markort147/real-time-web-chat)
 [![Java](https://img.shields.io/badge/Java-17-blue?logo=java)](https://github.com/search?q=user%3Amarkort147+topic%3Ajava&type=repositories)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)](https://github.com/search?q=user%3Amarkort147+topic%3Ajavascript&type=repositories)
@@ -100,6 +91,19 @@ It features a sleek web interface and programmatic access through the API for th
 [![WebSocket](https://img.shields.io/badge/WebSocket-darkblue?logo=websocket)](https://github.com/search?q=user%3Amarkort147+topic%3Awebsocket&type=repositories)
 [![STOMP Protocol](https://img.shields.io/badge/STOMP%20Protocol-red?logo=messaging)](https://github.com/search?q=user%3Amarkort147+topic%3Astomp-protocol&type=repositories)
 [![REST](https://img.shields.io/badge/REST-lightgrey?logo=swagger)](https://github.com/search?q=user%3Amarkort147+topic%3Arest&type=repositories)
+[![Gradle](https://img.shields.io/badge/Gradle-1f425f?logo=gradle)](https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=gradle)
+
+The most classic "get started" project ever: a real-time web chat application. 💬 
+Built as a way to dive into full-stack development, this project helped me explore just how deep the rabbit hole goes when you decide to tinker with JavaScript. 🐇⚡ 
+Spoiler alert: it’s darker and twistier than you think! 
+Featuring Spring Boot on the backend, WebSocket magic for real-time updates, and a front-end built with HTML, CSS, and, of course, JavaScript.  
+
+#### [Recipe Management Web Api](https://github.com/markort147/recipe-management-web-api)
+[![Java](https://img.shields.io/badge/Java-17-blue?logo=java)](https://github.com/search?q=user%3Amarkort147+topic%3Ajava&type=repositories)
+[![Skills Assessment](https://img.shields.io/badge/Skills%20Assessment-orange?logo=testing-library)](https://github.com/search?q=user%3Amarkort147+topic%3Askills-assessment&type=repositories)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5-brightgreen?logo=springboot)](https://github.com/search?q=user%3Amarkort147+topic%3Aspring-boot&type=repositories)
+[![Spring Security](https://img.shields.io/badge/Spring%20Security-darkgreen?logo=springsecurity)](https://github.com/search?q=user%3Amarkort147+topic%3Aspring-security&type=repositories)
+[![REST API](https://img.shields.io/badge/REST%20API-blue?logo=swagger)](https://github.com/search?q=user%3Amarkort147+topic%3Arest-api&type=repositories)
 [![Gradle](https://img.shields.io/badge/Gradle-1f425f?logo=gradle)](https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=gradle)
       
 #### [Simple Calendar Web Api](https://github.com/markort147/simple-calendar-web-api)
