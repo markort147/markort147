@@ -24,7 +24,7 @@ It was a fascinating experience, and I’d love to keep working in that space. B
 Meanwhile, Java has been transforming into a much more dynamic, performant, and powerful language than it used to be. It’s been exciting to witness its evolution firsthand.
 Where this polyamorous journey will lead, I can’t say for sure, but one thing is certain: my enthusiasm and curiosity will never waver.
 
-Oh, and speaking of new loves—do you know HTMX? I think I’m about to fall head over heels again.
+Oh, and speaking of new loves—do you know [HTMX](https://www.youtube.com/watch?v=x7v6SNIgJpE&t)? I think I’m about to fall head over heels again.
 
 
 <p align="right">If you'd like more details about my professional background, feel free to check out my <a href=https://github.com/markort147/markort147.github.io/blob/main/assets/cv.pdf>CV</a>.<br>
