@@ -1,26 +1,36 @@
-<h1 align="center">Marco Romano</h1>
-<h3 align="center">Experienced Java developer | Lifelong learner</h3>
+# Marco Romano
 
----
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mr93/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" height="30"/>
-  </a>
-  <a href="https://www.hackerrank.com/markort147">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="30"/>
-  </a>
-  <a href="https://leetcode.com/u/markort147">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="30"/>
-  </a>
-  <a href="https://hyperskill.org/profile/612962295">
-    <img src="https://img.shields.io/badge/-Hyperskill-8C5AFF?style=flat&logo=hyperskill&logoColor=white" height="30"/>
-  </a>
-</p>
+## My Journey
 
----
+Hi there! Let me start with a bit about my journey: I earned an **MSc in Physics** in 2019, during which I discovered my deep passion for learning—and my newfound love for coding.
+- Here's my [scientific publication](https://iopscience.iop.org/article/10.1088/1367-2630/ab7a30/meta), based on my graduation thesis.
+- And a [collection](https://github.com/markort147?tab=repositories&q=&type=&language=c) of **C code** I wrote while exploring simulations and algorithms during my studies.
 
-<h3 align="center">Some demos</h3>
+After graduating, I decided to transition into software development, where I found my second love: Java (though my first love will always be C).
+- Feel free to explore my [Java repositories](https://github.com/markort147?tab=repositories&q=&type=&language=java).
+- Oh, and if you’re a Magic: The Gathering fan, don’t miss [XMage](https://github.com/magefree/mage), an **open-source** app I proudly contribute to.
+
+For the past six years, I’ve been dedicating my efforts to supporting the customer care systems of a major Italian telecommunications and broadband company. 
+But my curiosity has never been content to sit still. 
+In the early years, I focused on mastering Java, but in 2023, I ventured into the world of **ML and Data Science through** a bootcamp. 
+It was the perfect opportunity to reconnect with **Python** and explore the vast field of data analysis and forecasting.
+- Check out my [certification](https://github.com/markort147/markort147.github.io/blob/main/assets/neural_academy.pdf).
+- And a [notebook](https://github.com/markort147?tab=repositories&q=&type=&language=jupyter+notebook) showcasing what I learned during that journey.
+
+It was a fascinating experience, and I’d love to keep working in that space. But my restless spirit soon turned to my third love: **Go**, which became my focus throughout 2024.
+- Take a look at my [Go repositories](https://github.com/markort147?tab=repositories&q=&type=&language=go). I know, they’re still few in number, but my head is full of ideas—I can’t wait to bring them to life and share them with you!
+
+Meanwhile, Java has been transforming into a much more dynamic, performant, and powerful language than it used to be. It’s been exciting to witness its evolution firsthand.
+Where this polyamorous journey will lead, I can’t say for sure, but one thing is certain: my enthusiasm and curiosity will never waver.
+
+Oh, and speaking of new loves—do you know HTMX? I think I’m about to fall head over heels again.
+
+
+<p align="right">If you'd like more details about my professional background, feel free to check out my <a href=https://github.com/markort147/markort147.github.io/blob/main/assets/cv.pdf>CV</a>.<br>
+As for <a href=https://markort147.github.io/>my personal website</a>, it’s admittedly a bit outdated at the moment. I’m working on rewriting it in HTMX + Go—it’s going to be amazing!</p>
+
+## Some demos
 
 <h4 align="left">Java Development</h4>
 <p>
