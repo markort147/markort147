@@ -1,5 +1,5 @@
 # Marco Romano
-
+![Pacman](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 ## Hi there, welcome to my sparkling GitHub profile! (∩｀-´)⊃━☆ﾟ.*･｡ﾟ
 If you're not here by chance, let me guide you through what this page has to offer: ᕕ( ◎_◎)ᕗ 
 
@@ -48,6 +48,8 @@ Where this polyamorous journey will lead, I can’t say for sure, but one thing 
 
 Oh, and speaking of new loves—do you know [HTMX](https://www.youtube.com/watch?v=x7v6SNIgJpE&t)? I think I’m about to fall head over heels again.
 
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"/></p>
+
 ## a few cool demos
 (⌐▀͡ ̯ʖ▀)
 
@@ -55,7 +57,7 @@ Oh, and speaking of new loves—do you know [HTMX](https://www.youtube.com/watch
 <p align="right">☀🌴༼▀̿ Ĺ̯▀̿༽</p>
 
 #### [The Box Problem API](https://github.com/markort147/theBoxProblem) 
-[![Java](https://img.shields.io/badge/Java-17-blue?logo=java)](https://github.com/search?q=user%3Amarkort147+topic%3Ajava&type=repositories)
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://github.com/search?q=user%3Amarkort147+topic%3Ajava&type=repositories)
 [![Skills Assessment](https://img.shields.io/badge/Skills%20Assessment-orange?logo=testing-library)](https://github.com/search?q=user%3Amarkort147+topic%3Askills-assessment&type=repositories)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5-green?logo=springboot)](https://github.com/search?q=user%3Amarkort147+topic%3Aspring-boot&type=repositories)
 [![Microservice](https://img.shields.io/badge/Microservice-purple?logo=microservices)](https://github.com/search?q=user%3Amarkort147+topic%3Amicroservice&type=repositories)
@@ -66,7 +68,7 @@ Oh, and speaking of new loves—do you know [HTMX](https://www.youtube.com/watch
 A Spring Boot-based REST API project that I created to ace a technical interview—and guess what? It worked, I got the offer! 🎉 This project showcases custom validation handling for a dynamic item packing algorithm, seamlessly integrating the Bean Validation API and Docker for hassle-free deployment. 🚀
 
 #### [Simple Code Sharing Platform](https://github.com/markort147/simple-code-sharing-platform)
-[![Java](https://img.shields.io/badge/Java-17-blue?logo=java)](https://github.com/search?q=user%3Amarkort147+topic%3Ajava&type=repositories)
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://github.com/search?q=user%3Amarkort147+topic%3Ajava&type=repositories)
 [![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)](https://github.com/search?q=user%3Amarkort147+topic%3Ahtml&type=repositories)
 [![Skills Assessment](https://img.shields.io/badge/Skills%20Assessment-orange?logo=testing-library)](https://github.com/search?q=user%3Amarkort147+topic%3Askills-assessment&type=repositories)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5-green?logo=springboot)](https://github.com/search?q=user%3Amarkort147+topic%3Aspring-boot&type=repositories)
@@ -80,7 +82,7 @@ This was purely a practice project—just me, some caffeine, and a desire to lev
 It features a sleek web interface and programmatic access through the API for those who like to tinker under the hood. 🔧
 
 #### [Real-time Web Chat](https://github.com/markort147/real-time-web-chat)
-[![Java](https://img.shields.io/badge/Java-17-blue?logo=java)](https://github.com/search?q=user%3Amarkort147+topic%3Ajava&type=repositories)
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://github.com/search?q=user%3Amarkort147+topic%3Ajava&type=repositories)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)](https://github.com/search?q=user%3Amarkort147+topic%3Ajavascript&type=repositories)
 [![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)](https://github.com/search?q=user%3Amarkort147+topic%3Ahtml&type=repositories)
 [![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)](https://github.com/search?q=user%3Amarkort147+topic%3Acss&type=repositories)
@@ -99,7 +101,7 @@ Spoiler alert: it’s darker and twistier than you think!
 Featuring Spring Boot on the backend, WebSocket magic for real-time updates, and a front-end built with HTML, CSS, and, of course, JavaScript.  
 
 #### [Recipe Management Web Api](https://github.com/markort147/recipe-management-web-api)
-[![Java](https://img.shields.io/badge/Java-17-blue?logo=java)](https://github.com/search?q=user%3Amarkort147+topic%3Ajava&type=repositories)
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://github.com/search?q=user%3Amarkort147+topic%3Ajava&type=repositories)
 [![Skills Assessment](https://img.shields.io/badge/Skills%20Assessment-orange?logo=testing-library)](https://github.com/search?q=user%3Amarkort147+topic%3Askills-assessment&type=repositories)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5-brightgreen?logo=springboot)](https://github.com/search?q=user%3Amarkort147+topic%3Aspring-boot&type=repositories)
 [![Spring Security](https://img.shields.io/badge/Spring%20Security-darkgreen?logo=springsecurity)](https://github.com/search?q=user%3Amarkort147+topic%3Aspring-security&type=repositories)
@@ -107,7 +109,7 @@ Featuring Spring Boot on the backend, WebSocket magic for real-time updates, and
 [![Gradle](https://img.shields.io/badge/Gradle-1f425f?logo=gradle)](https://github.com/search?q=user%3Amarkort147+topic%3Afreemarker&type=gradle)
       
 #### [Simple Calendar Web Api](https://github.com/markort147/simple-calendar-web-api)
-[![Java](https://img.shields.io/badge/Java-17-blue?logo=java)](https://github.com/search?q=user%3Amarkort147+topic%3Ajava&type=repositories)
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://github.com/search?q=user%3Amarkort147+topic%3Ajava&type=repositories)
 [![Skills Assessment](https://img.shields.io/badge/Skills%20Assessment-orange?logo=testing-library)](https://github.com/search?q=user%3Amarkort147+topic%3Askills-assessment&type=repositories)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5-green?logo=springboot)](https://github.com/search?q=user%3Amarkort147+topic%3Aspring-boot&type=repositories)
 [![WebSocket](https://img.shields.io/badge/WebSocket-darkblue?logo=websocket)](https://github.com/search?q=user%3Amarkort147+topic%3Awebsocket&type=repositories)
