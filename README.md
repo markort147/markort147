@@ -14,7 +14,7 @@ If you're not here by chance, let me guide you through what this page has to off
 
 ## a Love Declaration
 
-Let me start with a bit about my journey: I earned an **MSc in Physics** in 2019, during which I discovered my deep passion for learning—and my newfound love for coding.
+Let me start with a bit about my journey: I earned an **MSc in Physics** in 2018, during which I discovered my deep passion for learning—and my newfound love for coding.
 - Here's my [scientific publication](https://iopscience.iop.org/article/10.1088/1367-2630/ab7a30/meta), based on my graduation thesis.
 - And a [collection](https://github.com/markort147?tab=repositories&q=&type=&language=c) of **C code** I wrote while exploring simulations and algorithms during my studies.
 
