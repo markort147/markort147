@@ -10,6 +10,8 @@ As for <a href=https://markort147.github.io/>my personal website</a>, it’s adm
 
 Anyway, thanks for incrementing this (✌ﾟ∀ﾟ)☞ ![visitors badge](https://visitor-badge.laobi.icu/badge?page_id=markort147.markort147)
 
+<p align="center"><a href=https://www.youtube.com/watch?v=lX8b6ON60E0><img src="https://private-user-images.githubusercontent.com/74038190/242390863-c552be39-25aa-4f5a-8421-54aa11f7131f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc5MTU5MjYsIm5iZiI6MTczNzkxNTYyNiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA4NjMtYzU1MmJlMzktMjVhYS00ZjVhLTg0MjEtNTRhYTExZjcxMzFmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI2VDE4MjAyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhYzFlNWJjZWU5M2M2YzE2YjE0ODcxOTNmYTM2NTRkMDhhZWY0N2Y3YmZhMjVjNzhkYzNiOGU5MzY1OGQwMDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Rv1aT1gseIDymIr9GXjx8vpZmiqVAawjJrql7yZTkcI"/></a></p>
+
 ## some shiny trophies
 Let’s break the ice ヽ(⌐■_■)ノ♪♬
 <div align="center">
