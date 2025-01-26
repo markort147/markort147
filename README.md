@@ -1,9 +1,20 @@
 # Marco Romano
 
+## Hi there, welcome to my GitHub profile! 👋
+If you're not here by chance, let me guide you through what this page has to offer:
 
-## My Journey
+[🏆 Some shiny trophies](#some-shiny-trophies), [💌 a Love Declaration](#a-love-declaration), [🛠️ a few cool demos](#a-few-cool-demos) and [📊 some not-so-boring stats](#some-not-so-boring-stats)
 
-Hi there! Let me start with a bit about my journey: I earned an **MSc in Physics** in 2019, during which I discovered my deep passion for learning—and my newfound love for coding.
+## Some shiny trophies
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=AAL1X&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+    </a>
+</div>  
+
+## a Love Declaration
+
+Let me start with a bit about my journey: I earned an **MSc in Physics** in 2019, during which I discovered my deep passion for learning—and my newfound love for coding.
 - Here's my [scientific publication](https://iopscience.iop.org/article/10.1088/1367-2630/ab7a30/meta), based on my graduation thesis.
 - And a [collection](https://github.com/markort147?tab=repositories&q=&type=&language=c) of **C code** I wrote while exploring simulations and algorithms during my studies.
 
@@ -30,7 +41,7 @@ Oh, and speaking of new loves—do you know [HTMX](https://www.youtube.com/watch
 <p align="right">If you'd like more details about my professional background, feel free to check out my <a href=https://github.com/markort147/markort147.github.io/blob/main/assets/cv.pdf>CV</a>.<br>
 As for <a href=https://markort147.github.io/>my personal website</a>, it’s admittedly a bit outdated at the moment. I’m working on rewriting it in HTMX + Go—it’s going to be amazing!</p>
 
-## Some demos
+## a few cool demos
 
 <h4 align="left">Java Development</h4>
 <p>
@@ -105,6 +116,8 @@ As for <a href=https://markort147.github.io/>my personal website</a>, it’s adm
 </p>
 
 ---
+
+## some not-so-boring stats
 
 <p align="center">
   <a href="http://ionicabizau.github.io/github-profile-languages/?user=%2540markort147">
