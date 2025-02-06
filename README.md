@@ -139,7 +139,7 @@ A challenging yet rewarding experience that sharpened my skills and boosted my c
 
 
 ## some not-so-boring stats
-<p align="right">ଵ ˛̼ ଵ<br>J..Ja..Ja..Javascript?</p>
+<p align="right">ଵ ˛̼ ଵ</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markort147&count_private=false&langs_count=9&hide=jupyter%20notebook,tex,css&layout=compact" alt="Top Languages" />
   <br>
