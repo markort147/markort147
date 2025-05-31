@@ -6,7 +6,7 @@ Before this, I worked as a backend software engineer in the [IT consultancy worl
 
 Lately I’ve been experimenting with [Docker](https://github.com/search?q=user%3Amarkort147+topic%3Ahtmx&type=repositories) and [HTMX](https://github.com/search?q=user%3Amarkort147+topic%3Ahtmx&type=repositories), trying out new ways to build and deploy lightweight tools. I enjoy working on clean, maintainable systems and learning by building.
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=markort147&count_private=false&langs_count=12&hide=jupyter%20notebook&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=markort147&count_private=true&langs_count=12&hide=jupyter%20notebook&layout=compact)
 
 ---
 
