@@ -1,4 +1,4 @@
-# 🧠 ʕ◔ϖ◔ʔ ⚛️
+# ʕ◔ϖ◔ʔ
 
 Coder with a background in [quantum information physics](https://www.quantumlab.it/).
 
